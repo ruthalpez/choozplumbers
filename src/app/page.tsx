@@ -6,7 +6,7 @@ import ImageBox from "@/components/ImageBox";
 import BlogCarousel from "@/components/BlogCarousel";
 import JsonLdHead from "@/components/JsonLdHead";
 
-import FloatedBallon from "@/images/floated/chooz_plumbers_hot_air_balloon.png";
+import FloatedBallon from "@/images/floated/chooz_plumbers-hot_air_balloon-1.png";
 import Thinking from "@/images/chooz_plumbers_thinking_girl.png";
 
 import ResearchPainters from "@/images/badge/chooz_plumbers_find_plumbers_2.png";
