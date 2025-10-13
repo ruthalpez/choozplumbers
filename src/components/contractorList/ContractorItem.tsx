@@ -25,7 +25,7 @@ const formatUrlPart = (text: string): string =>
   text.toLowerCase().replace(/\s+/g, "-").replace(/'/g, "");
 
 const fallbackImageLogo =
-  "https://imagedelivery.net/6JkaVsfAvbV7M0nIAmm2-g/6c4a082e-db7b-42e9-1f7f-aba5a1216200/public";
+  "https://imagedelivery.net/6JkaVsfAvbV7M0nIAmm2-g/3c250ca3-45aa-458b-16db-de392c7aa200/public";
 const fallbackImage =
   "https://imagedelivery.net/6JkaVsfAvbV7M0nIAmm2-g/6c9c85be-bb9f-469f-7fad-7172060b6200/public";
 
